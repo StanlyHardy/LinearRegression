@@ -8,8 +8,7 @@ This is an implementation of Linear Regression with Gradient Descent.
 What things you need to install the software and how to install them
 
 ```
-Python 2.7
-  numpy
+numpy
 ```
 
 ## Built With
