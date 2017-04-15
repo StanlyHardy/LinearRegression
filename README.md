@@ -9,7 +9,7 @@ What things you need to install the software and how to install them
 
 ```
 Python 2.7
- * numpy
+  numpy
 ```
 
 ## Built With
@@ -19,5 +19,3 @@ Python 2.7
 ## Usage
 
 Just run ``python gradientdescent.py`` to see the results:
-
-   ```
