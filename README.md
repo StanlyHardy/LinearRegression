@@ -5,8 +5,7 @@ This is an implementation of Linear Regression with Gradient Descent.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
+Module required to do the computation
 ```
 numpy
 ```
