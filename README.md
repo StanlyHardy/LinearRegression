@@ -16,4 +16,4 @@ numpy
 
 ## Usage
 
-Just run ``python gradientdescent.py`` to see the results:
+Just run ``python gradientdescent.py`` to see the results.
